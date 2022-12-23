@@ -18,4 +18,4 @@ Create a topic (one time only)
 $ bin/kafka-topics.sh --create --topic accident_tmp_input --bootstrap-server localhost:9092
 ```
 
-Run the KafkaProducer first and then the KafkaConsumer. Your output should be accumulated from time to time in a HTML file. 
+Run the KafkaProducer notebook first and then the KafkaConsumer notebook. Your output should be accumulated from time to time in a HTML file. 
